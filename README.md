@@ -5,9 +5,7 @@ Backend developer specializing in AI automation and system architecture. I build
 ## Current Focus
 
 **Active Projects:**
-- Uni_Helper – AI-powered academic assistant
 - OPEF.ai – Automation framework for intelligent workflows
-- Custom n8n integrations with Python backends
 
 **Learning:** Advanced backend patterns (FastAPI, Docker orchestration, MPTCP), AI-driven user experiences
 
